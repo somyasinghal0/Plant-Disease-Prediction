@@ -4,5 +4,6 @@ streamlit
 scikit-learn
 altair==4.2.2
 python-3.11
-
+pillow
+opencv-python
 
